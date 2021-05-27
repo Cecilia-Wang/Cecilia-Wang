@@ -1,5 +1,6 @@
 ### Hi there 👋, keep reading to know more about me
 
+I'm a final year PhD studying agricultural microbiomes.
 
 - 🔭 I’m currently working on ... Publishing a first-author paper
 - 🌱 I’m currently learning ... Biochemistry
