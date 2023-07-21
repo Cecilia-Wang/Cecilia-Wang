@@ -1,6 +1,6 @@
 ### Hi there 👋, keep reading to know more about me
 
-I'm a final year PhD student studying agricultural microbiomes.
+I'm a postdoc fellow working on combating TB.
 
 - 🔭 I’m currently working on identifying essential genes in drug-resistant _M.tb_
 - 🌱 I’m currently learning Biochemistry
